@@ -12,6 +12,6 @@ The data was cleaned (it was super unclean :( ) and analysed.
 
 Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
-Link for notebook: https://github.com/Swastik11-coder/car_price_prediction_project/blob/main/car_price_prediction.ipynb
+Link for notebook: https://github.com/Rishi0608Coader/car_price_prediction_project/blob/main/car_price_prediction.ipynb
 
 This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
